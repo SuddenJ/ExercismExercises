@@ -1,6 +1,7 @@
 ﻿
 namespace ExercismExercises
 {
+    /*
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -52,6 +53,7 @@ namespace ExercismExercises
     }
 }
 
+    */
 
 
 
@@ -101,7 +103,7 @@ public class WordSearch
                     {
                         Console.Write(s);
                     }
-        */
+        
     }
 
     // Take an array of libraries and parse them into = Search(string[] wordsToSearchFor)
@@ -113,5 +115,6 @@ public class WordSearch
     }
 
 }
-}
 */
+}
+

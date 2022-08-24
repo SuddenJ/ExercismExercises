@@ -1,5 +1,6 @@
 ﻿using ExercismExercises;
 
+/* word search
 var grid =
             "jefblpepre\n" +
             "camdcimgtc\n" +
@@ -14,3 +15,6 @@ var grid =
 
 WordSearch word = new WordSearch(grid);
 
+*/
+
+Console.WriteLine(ResistorColor.ColorCode("white"));
